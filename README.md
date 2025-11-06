@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 My go to engineering toolbox
 
 #### 💻 Languages
 <p>
@@ -33,7 +33,7 @@
 
 #### 🧩 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,django,flask,bootstrap" alt="Frameworks and Libraries"/>
+<img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap" alt="Frameworks and Libraries"/>
 </p>
 
 #### 🗄️ Databases & Messaging
@@ -56,3 +56,4 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Engines"/>
 
 </p>
+
