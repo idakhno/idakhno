@@ -11,9 +11,6 @@
 
 ### 🌐 Connect with me
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <a href="https://github.com/idakhno" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/ilia-dakhno-082248238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -56,5 +53,6 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Engines"/>
 
 </p>
+
 
 
