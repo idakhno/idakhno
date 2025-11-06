@@ -38,12 +38,12 @@
 
 #### 🗄️ Databases & Messaging
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka" alt="Databases and Messaging"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,kafka" alt="Databases and Messaging"/>
 </p>
 
 #### ⚙️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,aws,heroku,firebase,elasticsearch" alt="DevOps and Cloud"/>
+<img src="https://skillicons.dev/icons?i=gitlab,docker,kubernetes,nginx,jenkins,aws,heroku,firebase,elasticsearch" alt="DevOps and Cloud"/>
 </p>
 
 #### 🧠 Tools
@@ -56,4 +56,5 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Engines"/>
 
 </p>
+
 
