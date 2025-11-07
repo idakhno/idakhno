@@ -23,9 +23,14 @@
 
 ### 🧰 My go to engineering toolbox
 
-#### 💻 Languages
+#### 💻 Main-Spec Language
 <p>
-<img src="https://skillicons.dev/icons?i=go,c,cs,py,js,ts,html,css" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=go" alt="Languages"/>
+</p>
+
+#### 💻 Off-Spec Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cs,py,js,ts,html,css" alt="Languages"/>
 </p>
 
 #### 🧩 Frameworks & Libraries
@@ -53,6 +58,7 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Engines"/>
 
 </p>
+
 
 
 
