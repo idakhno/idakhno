@@ -45,20 +45,15 @@
 
 #### ⚙️ Platform & Instruments
 <p>
-<img src="https://skillicons.dev/icons?i=linux,gitlab,docker,kubernetes,postman,figma" alt="DevOps and Cloud"/>
+<img src="https://skillicons.dev/icons?i=linux,gitlab,docker,kubernetes,vault,postman,figma" alt="Platforms and Instruments"/>
 </p>
 
 #### 🔭 Observability
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,sentry" alt="Observability Stack"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-otel?logo=opentelemetry&logoColor=white&labelColor=454545&color=6E56CF" alt="OpenTelemetry"/>
-<img src="https://img.shields.io/badge/Jaeger-tracing-1f2a44" alt="Jaeger"/>
-<img src="https://img.shields.io/badge/Loki-logs-0b5f6b" alt="Loki"/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,loki,promtail,sentry" alt="Observability Stack"/>
 </p>
 
 #### 🎮 Game Engines
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
-
 </p>
-
