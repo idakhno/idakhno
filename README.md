@@ -45,15 +45,16 @@
 
 #### ⚙️ Platform & Instruments
 <p>
-<img src="https://skillicons.dev/icons?i=linux,gitlab,docker,kubernetes,vault,postman,figma" alt="Platforms and Instruments"/>
+<img src="https://skillicons.dev/icons?i=linux,gitlab,docker,kubernetes,postman,figma" alt="Platforms and Instruments"/>
 </p>
 
 #### 🔭 Observability
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,loki,promtail,sentry" alt="Observability Stack"/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,sentry" alt="Observability Stack"/>
 </p>
 
 #### 🎮 Game Engines
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
