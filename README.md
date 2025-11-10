@@ -43,18 +43,22 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,kafka" alt="Databases and Messaging"/>
 </p>
 
-#### ⚙️ DevOps & Cloud
+#### ⚙️ Platform & Instruments
 <p>
-<img src="https://skillicons.dev/icons?i=gitlab,docker,kubernetes,nginx,jenkins,aws,heroku,firebase,elasticsearch" alt="DevOps and Cloud"/>
+<img src="https://skillicons.dev/icons?i=linux,gitlab,docker,kubernetes,postman,figma" alt="DevOps and Cloud"/>
 </p>
 
-#### 🧠 Tools
+#### 🔭 Observability
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,postman,figma" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,sentry" alt="Observability Stack"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-otel?logo=opentelemetry&logoColor=white&labelColor=454545&color=6E56CF" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Jaeger-tracing-1f2a44" alt="Jaeger"/>
+<img src="https://img.shields.io/badge/Loki-logs-0b5f6b" alt="Loki"/>
 </p>
 
 #### 🎮 Game Engines
 <p>
-<img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Engines"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 
 </p>
+
