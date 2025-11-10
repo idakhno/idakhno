@@ -1,9 +1,9 @@
 ﻿# 👋 Hi, I'm Ilia
 
 - 🔭 Currently working on **Code Type** - my final project for CS50!
-- 🌱 Learning **Golang**, **C**, and **Computer Networks**
+- 🌱 Focusing on **Golang**, **C**, and **Computer Networks**
 - 👯 Open to collaborate on any **Go open-source projects**
-- 📝 Writing tech articles on [Out of Syntax](https://t.me/out_of_syntax)
+- 📝 Writing tech and non-tech articles on [Out of Syntax](https://t.me/out_of_syntax)
 - 📫 Reach me at **73265adk@gmail.com**
 - ⚡ Fun fact: **I really like cookies 🍪**
 
@@ -58,7 +58,3 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Engines"/>
 
 </p>
-
-
-
-
