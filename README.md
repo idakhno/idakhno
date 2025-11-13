@@ -53,8 +53,14 @@
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,sentry" alt="Observability Stack"/>
 </p>
 
+#### 🔭 Auth Stack
+<p>
+<img src="https://skillicons.dev/icons?i=keycloak,kratos,hydra,oathkeeper" alt="Auth Stack"/>
+</p>
+
 #### 🎮 Game Engines
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
 
