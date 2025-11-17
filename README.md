@@ -1,6 +1,6 @@
 ﻿# 👋 Hi, I'm Ilia
 
-- 🔭 Currently working on **Code Type** - my final project for CS50!
+- 🔭 Currently working at **Cuty Pro**
 - 🌱 Focusing on **Golang**, **C**, and **Computer Networks**
 - 👯 Open to collaborate on any **Go open-source projects**
 - 📝 Writing tech and non-tech articles on [Out of Syntax](https://t.me/out_of_syntax)
@@ -57,3 +57,4 @@
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
