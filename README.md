@@ -23,12 +23,12 @@
 
 ### 🧰 My go to engineering toolbox
 
-#### 💻 Main-Spec Language
+#### 💻 Main-Spec Programming Language
 <p>
 <img src="https://skillicons.dev/icons?i=go" alt="Languages"/>
 </p>
 
-#### 💻 Off-Spec Languages
+#### 💻 Off-Spec Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=c,cs,py,js,ts,html,css" alt="Languages"/>
 </p>
@@ -57,4 +57,5 @@
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
 
