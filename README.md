@@ -26,6 +26,7 @@
 #### 💻 Main-Spec Programming Language
 <p>
 <img src="https://skillicons.dev/icons?i=go" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=flutter" alt="Languages"/>
 </p>
 
 #### 💻 Off-Spec Programming Languages
@@ -57,5 +58,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
 
 
