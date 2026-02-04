@@ -1,7 +1,7 @@
 ﻿# 👋 Hi, I'm Ilia
 
 - 🔭 Currently working at **Cuty Pro**
-- 🌱 Focusing on **Golang**, **C**, and **Computer Networks**
+- 🌱 Focusing on **Golang** and **Flutter**
 - 👯 Open to collaborate on any **Go open-source projects**
 - 📝 Writing tech and non-tech articles on [Out of Syntax](https://t.me/out_of_syntax)
 - 📫 Reach me at **73265adk@gmail.com**
@@ -58,6 +58,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
 
 
 
