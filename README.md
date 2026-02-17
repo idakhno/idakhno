@@ -1,7 +1,7 @@
 ﻿# 👋 Hi, I'm Ilia
 
 - 🔭 Currently working at **Cuty Pro**
-- 🌱 Focusing on **Golang** and **Flutter**
+- 🌱 Focusing on **Golang** and **Dart/Flutter**
 - 👯 Open to collaborate on any **Go open-source projects**
 - 📝 Writing tech and non-tech articles on [i.dakhno Labs](https://t.me/idakhno_labs)
 - 📫 Reach me at **73265adk@gmail.com**
@@ -26,7 +26,7 @@
 #### 💻 Main-Spec Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=go" alt="Languages"/>
-<img src="https://skillicons.dev/icons?i=flutter" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=dart" alt="Languages"/>
 </p>
 
 #### 💻 Off-Spec Programming Languages
@@ -36,7 +36,7 @@
 
 #### 🧩 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap" alt="Frameworks and Libraries"/>
+<img src="https://skillicons.dev/icons?i=flutter,django,flask,react,bootstrap" alt="Frameworks and Libraries"/>
 </p>
 
 #### 🗄️ Databases & Messaging
@@ -58,6 +58,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
 
 
 
