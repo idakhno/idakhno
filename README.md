@@ -3,7 +3,7 @@
 - 🔭 Currently working at **Cuty Pro**
 - 🌱 Focusing on **Golang** and **Flutter**
 - 👯 Open to collaborate on any **Go open-source projects**
-- 📝 Writing tech and non-tech articles on [Out of Syntax](https://t.me/out_of_syntax)
+- 📝 Writing tech and non-tech articles on [i.dakhno Labs](https://t.me/idakhno_labs)
 - 📫 Reach me at **73265adk@gmail.com**
 - ⚡ Fun fact: **I really like cookies 🍪**
 
@@ -58,6 +58,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
 
 
 
