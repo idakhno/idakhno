@@ -1,7 +1,7 @@
 ﻿# 👋 Hi, I'm Ilia
 
 - 🔭 Currently working at **[Cuty](https://cuty.pro/)**
-- 🌱 Focusing on **Go** and **Dart/Flutter**
+- 🌱 Focusing on <p>"https://skillicons.dev/icons?i=go" alt="Languages"/></p> and <p> <img src="https://skillicons.dev/icons?i=flutter" alt="Frameworks and Libraries"/></p>
 - 👯 Open to collaborate on any **Go open-source projects**
 - 📝 Writing tech and non-tech articles on **[i.dakhno Labs](https://t.me/idakhno_labs)**
 - 📫 Reach me at **73265adk@gmail.com**
@@ -58,6 +58,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </p>
+
 
 
 
