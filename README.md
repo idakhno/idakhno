@@ -1,8 +1,8 @@
 ﻿# 👋 Hi, I'm Ilia. It's really nice to meet you. Stay awhile and listen.
 
 - 🔭 Currently working at **[Cuty](https://cuty.pro/)**
-- 🌱 Focusing on **Flutter/Go**
-- 👯 Open to collaborate on any **Flutter or Go open-source projects**
+- 🌱 Focusing on **Flutter, Kotlin, Java, Go**
+- 👯 Open to collaborate on any **open-source projects**
 - 📝 Writing tech and non-tech articles on **[ilia_dakhno_dev](https://t.me/ilia_dakhno_dev)**
 - 📫 Reach me at **73265adk@gmail.com**
 - ⚡ Fun fact: **I really like cookies 🍪**
