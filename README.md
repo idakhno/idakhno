@@ -1,8 +1,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" width="830" alt="Ilia Dakhno. Mobile developer. Now at Cuty, an online booking app. iOS, Android, backend.">
+    <img src="assets/hero-light.svg" width="620" alt="Ilia Dakhno. Mobile developer. Working on Cuty, an online booking app. iOS, Android, backend.">
   </picture>
+  <img src="assets/mobile-mascot.png" width="204" alt="A smiling pixel art phone mascot waving hello.">
 </p>
 
 <p align="center">
