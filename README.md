@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/hero.gif">
-  <img src="assets/hero.png" alt="Pixel art: a lone figure on a rooftop above a vast, two-tier city glowing in amber and gold." width="1536">
+  <source media="(prefers-reduced-motion: no-preference)" srcset="hero.gif">
+  <img src="hero.png" alt="Pixel art: a lone figure on a rooftop above a vast, two-tier city glowing in amber and gold." width="1536">
 </picture>
 
 # Ilia Dakhno
