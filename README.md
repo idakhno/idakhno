@@ -9,7 +9,3 @@
 <p align="center">
 <a href="https://t.me/dakhno_ilia"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-telegram-dark.svg"><img src="assets/btn-telegram-light.svg" width="270" alt="Message on Telegram"></picture></a><img src="assets/spacer.svg" width="10" height="1" alt=""><a href="mailto:73265adk@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" width="270" alt="Send an email"></picture></a><img src="assets/spacer.svg" width="10" height="1" alt=""><a href="https://t.me/ilia_dakhno_dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-blog-dark.svg"><img src="assets/btn-blog-light.svg" width="270" alt="Read my dev blog"></picture></a>
 </p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg"><img src="assets/github-snake.svg" width="830" alt="My GitHub contribution graph, eaten by a snake."></picture>
-</p>
